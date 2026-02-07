@@ -70,7 +70,18 @@ We open-source our code and datasets to facilitate community research. Below are
 
 <br>
 
-#### 5. 💾 High-Performance Storage & Caching
+#### 5. 👁️ Visual Computing & Multimedia
+#### 视觉计算与多媒体
+
+*3D Generation (NeRF), Video Analysis, and Object Detection.*
+*涵盖 3D 生成 (NeRF)、大规模视频分析及目标检测。*
+
+| Project / Paper Title | Venue | Links |
+| :--- | :---: | :---: |
+
+<br>
+
+#### 6. 💾 High-Performance Storage & Caching
 #### 高性能存储与缓存
 
 *Focus on KV Cache Optimization, SSD Storage Reliability, and Erasure Coding.*
@@ -80,15 +91,6 @@ We open-source our code and datasets to facilitate community research. Below are
 | :--- | :---: | :---: |
 
 <br>
-
-#### 6. 👁️ Visual Computing & Multimedia
-#### 视觉计算与多媒体
-
-*3D Generation (NeRF), Video Analysis, and Object Detection.*
-*涵盖 3D 生成 (NeRF)、大规模视频分析及目标检测。*
-
-| Project / Paper Title | Venue | Links |
-| :--- | :---: | :---: |
 
 ---
 
