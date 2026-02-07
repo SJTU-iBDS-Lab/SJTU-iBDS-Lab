@@ -3,8 +3,8 @@
 # 🔬 Intelligent Big Data System Lab (IBDS-Lab)
 # 智能大数据系统实验室
 
-[![Research](https://img.shields.io/badge/Research-Active-brightgreen.svg)](https://github.com/YourLabName)
-[![Publications](https://img.shields.io/badge/Publications-70%2B-blue.svg)](https://your-lab-website.com/publications)
+[![Research](https://img.shields.io/badge/Research-Active-brightgreen.svg)](https://ibdsys.sjtu.edu.cn/)
+[![Publications](https://img.shields.io/badge/Publications-70%2B-blue.svg)](https://ibdsys.sjtu.edu.cn/publications)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
