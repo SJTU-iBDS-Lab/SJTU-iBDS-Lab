@@ -99,8 +99,7 @@ We are always looking for motivated students and collaborators!
 
 * **Email:** 
 
-lijiecs@sjtu.edu.cn(Chair Professor Jie Li)
-lj1994@sjtu.edu.cn(Assistant Professor Jiong Lou)
+lijiecs@sjtu.edu.cn(Chair Professor Jie Li), lj1994@sjtu.edu.cn(Assistant Professor Jiong Lou)
 
 * **Location:** Room 216, Building 3 of SEIEE, Shanghai Jiao Tong University, Shanghai, China
 
