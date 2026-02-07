@@ -13,11 +13,11 @@
 
 ### 📖 About Us / 关于我们
 
-**Focusing on Distributed Systems, Trustworthy AI, High-Performance Storage, Blockchain, and Large Models.**
-Welcome to the official GitHub repository of **Intelligent Big Data System Lab (IBDS-Lab)**. We are dedicated to solving fundamental challenges in distributed consensus, AI security, and large-scale system reliability. Our research has been published in top-tier conferences and journals including **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS**.
+**Focusing on Trustworthy AI, Blockchain, Large Models, Distributed Systems, and High-Performance Storage.**
+Welcome to the official GitHub repository of **Intelligent Big Data System Lab (IBDS-Lab)**. We are dedicated to solving fundamental challenges in AI security, distributed consensus, and large-scale system reliability. Our research has been published in top-tier conferences and journals including **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS**.
 
-**专注于分布式系统、可信 AI、高性能存储、区块链及大模型的前沿研究。**
-欢迎来到 **智能大数据系统实验室 (IBDS-Lab)** 的官方 GitHub 仓库。我们要解决分布式共识、AI 安全、大规模系统可靠性及大模型应用中的基础性挑战。我们的研究成果发表在 **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS** 等顶级会议和期刊上。
+**专注于可信 AI、区块链、大模型、分布式系统及高性能存储的前沿研究。**
+欢迎来到 **智能大数据系统实验室 (IBDS-Lab)** 的官方 GitHub 仓库。我们要解决 AI 安全、分布式共识、大规模系统可靠性及大模型应用中的基础性挑战。我们的研究成果发表在 **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS** 等顶级会议和期刊上。
 
 ---
 
@@ -26,29 +26,7 @@ Welcome to the official GitHub repository of **Intelligent Big Data System Lab (
 We open-source our code and datasets to facilitate community research. Below are our key research pillars.
 我们开源了代码和数据集以促进社区研究。以下是我们的核心研究支柱。
 
-#### 1. ☁️ Distributed Systems
-#### 分布式系统
-
-*Focus on Distributed Consensus Algorithms and System Coordination.*
-*专注于分布式共识算法 (Consensus) 及系统协同机制的研究。*
-
-| Project / Paper Title | Venue | Links |
-| :--- | :---: | :---: |
-
-<br>
-
-#### 2. 💾 High-Performance Storage & Caching
-#### 高性能存储与缓存
-
-*Focus on KV Cache Optimization, SSD Storage Reliability, and Erasure Coding.*
-*专注于 KV Cache 优化、SSD 存储可靠性及纠删码 (Erasure Coding) 技术。*
-
-| Project / Paper Title | Venue | Links |
-| :--- | :---: | :---: |
-
-<br>
-
-#### 3. 🛡️ Trustworthy AI & Federated Learning
+#### 1. 🛡️ Trustworthy AI & Federated Learning
 #### 可信 AI 与联邦学习
 
 *Focus on Federated Learning and Trustworthiness in Multi-Agent Systems.*
@@ -59,7 +37,7 @@ We open-source our code and datasets to facilitate community research. Below are
 
 <br>
 
-#### 4. 🔗 Blockchain & Security
+#### 2. 🔗 Blockchain & Security
 #### 区块链与安全
 
 *Focus on Consensus Mechanisms, Attacks, and Smart Contract Security.*
@@ -70,11 +48,33 @@ We open-source our code and datasets to facilitate community research. Below are
 
 <br>
 
-#### 5. 🤖 Large Models (Multi-Agent, RAG, Diffusion, LLM-RL)
+#### 3. 🤖 Large Models (Multi-Agent, RAG, Diffusion, LLM-RL)
 #### 大模型技术
 
 *Multi-Agent Systems, RAG, Multimodal Reasoning, Diffusion Models, and LLM-RL.*
 *多智能体协同、检索增强生成 (RAG)、多模态推理、扩散模型及 LLM 强化学习。*
+
+| Project / Paper Title | Venue | Links |
+| :--- | :---: | :---: |
+
+<br>
+
+#### 4. ☁️ Distributed Systems
+#### 分布式系统
+
+*Focus on Distributed Consensus Algorithms and System Coordination.*
+*专注于分布式共识算法 (Consensus) 及系统协同机制的研究。*
+
+| Project / Paper Title | Venue | Links |
+| :--- | :---: | :---: |
+
+<br>
+
+#### 5. 💾 High-Performance Storage & Caching
+#### 高性能存储与缓存
+
+*Focus on KV Cache Optimization, SSD Storage Reliability, and Erasure Coding.*
+*专注于 KV Cache 优化、SSD 存储可靠性及纠删码 (Erasure Coding) 技术。*
 
 | Project / Paper Title | Venue | Links |
 | :--- | :---: | :---: |
@@ -97,7 +97,7 @@ We open-source our code and datasets to facilitate community research. Below are
 We are always looking for motivated students and collaborators!
 我们长期招收有自我驱动力的学生和研究合作伙伴！
 
-* **Email:** lijiecs@sjtu.edu.cn(Chair Professor Jie Li), lj1994@sjtu.edu.cn(Assistant Professor Jiong Lou)
+* **Email:** lijiecs@sjtu.edu.cn (Chair Professor Jie Li), lj1994@sjtu.edu.cn (Assistant Professor Jiong Lou)
 
 * **Location:** Room 216, Building 3 of SEIEE, Shanghai Jiao Tong University, Shanghai, China
 
