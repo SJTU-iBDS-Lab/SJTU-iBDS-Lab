@@ -97,9 +97,7 @@ We open-source our code and datasets to facilitate community research. Below are
 We are always looking for motivated students and collaborators!
 我们长期招收有自我驱动力的学生和研究合作伙伴！
 
-* **Email:** 
-
-lijiecs@sjtu.edu.cn(Chair Professor Jie Li), lj1994@sjtu.edu.cn(Assistant Professor Jiong Lou)
+* **Email:** lijiecs@sjtu.edu.cn(Chair Professor Jie Li), lj1994@sjtu.edu.cn(Assistant Professor Jiong Lou)
 
 * **Location:** Room 216, Building 3 of SEIEE, Shanghai Jiao Tong University, Shanghai, China
 
