@@ -16,7 +16,7 @@
 **Focusing on Big Data, AI, Blockchain, Network Systems and Security, and Smart City.**
 Welcome to the official GitHub repository of **Intelligent Big Data System Lab (IBDS-Lab)**. We are dedicated to solving fundamental challenges in Big Data, AI, Blockchain, Network Systems and Security, and Smart City. Our research has been published in top-tier conferences and journals including **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS**.
 
-**专注于可信 AI、区块链、大模型、分布式系统及高性能存储的前沿研究。**
+**专注于大数据、人工智能、区块链、网络系统与安全，以及智慧城市的前沿研究。**
 欢迎来到 **智能大数据系统实验室 (IBDS-Lab)** 的官方 GitHub 仓库。我们要解决大数据、人工智能、区块链、网络系统与安全，以及智慧城市中的基础性挑战。我们的研究成果发表在 **VLDB, DAC, ICDE, NeurIPS, CVPR, IEEE TMC/TPDS** 等顶级会议和期刊上。
 
 ---
