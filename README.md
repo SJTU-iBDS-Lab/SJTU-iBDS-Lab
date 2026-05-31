@@ -35,6 +35,8 @@ We open-source our code and datasets to facilitate community research. Below are
 | Project / Paper Title | Venue | Links |
 | :--- | :---: | :---: |
 |BSR-FL: An Efficient Byzantine-Robust Privacy-Preserving Federated Learning Framework|[BSR-FL](https://ieeexplore.ieee.org/abstract/document/10536902)|[BSR-FL](https://github.com/SJTU-iBDS-Lab/BSR-FL)|
+|Adaptive Incentivize for Federated Learning With Cloud-Edge Collaboration Under Multi-Level Information Sharing|[Link](https://ieeexplore.ieee.org/abstract/document/10985790)||
+|Temporal Gradient Inversion Attacks With Robust Optimization|[Link](https://ieeexplore.ieee.org/abstract/document/10848255)||
 |ESFL: Accelerating Poisonous Model Detection in Privacy-Preserving Federated Learning|[ESFL](https://github.com/SJTU-iBDS-Lab/ESFL)|[ESFL](https://github.com/SJTU-iBDS-Lab/ESFL)|
 
 <br>
@@ -80,6 +82,7 @@ We open-source our code and datasets to facilitate community research. Below are
 
 | Project / Paper Title | Venue | Links |
 | :--- | :---: | :---: |
+|LOVO: Efficient Complex Object Query in Large-Scale Video Datasets|[LOVO](https://www.computer.org/csdl/proceedings-article/icde/2025/360300b938/26FZAuBM9OM)||
 
 <br>
 
