@@ -88,7 +88,8 @@ We open-source our code and datasets to facilitate community research. Below are
 *专注于 KV Cache 优化、SSD 存储可靠性及纠删码 (Erasure Coding) 技术。*
 
 | Project / Paper Title | Venue | Links |
-| E-mem: Multi-Agent Based Episodic Context Reconstruction for LLM Agent Memory | github | [E-mem](https://github.com/SJTU-iBDS-Lab/E-mem) |
+| :--- | :---: | :---: |
+| E-mem: Multi-Agent Based Episodic Context Reconstruction for LLM Agent Memory | [E-mem](https://arxiv.org/abs/2601.21714) | [E-mem](https://github.com/SJTU-iBDS-Lab/E-mem) |
 
 <br>
 
