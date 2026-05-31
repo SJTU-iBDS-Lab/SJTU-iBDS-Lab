@@ -34,6 +34,8 @@ We open-source our code and datasets to facilitate community research. Below are
 
 | Project / Paper Title | Venue | Links |
 | :--- | :---: | :---: |
+|BSR-FL: An Efficient Byzantine-Robust Privacy-Preserving Federated Learning Framework|[BSR-FL](https://ieeexplore.ieee.org/abstract/document/10536902)|[BSR-FL](https://github.com/SJTU-iBDS-Lab/BSR-FL)|
+|ESFL: Accelerating Poisonous Model Detection in Privacy-Preserving Federated Learning|[ESFL](https://github.com/SJTU-iBDS-Lab/ESFL)|[ESFL](https://github.com/SJTU-iBDS-Lab/ESFL)|
 
 <br>
 
